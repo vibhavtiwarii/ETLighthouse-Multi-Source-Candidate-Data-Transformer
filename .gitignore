@@ -1,0 +1,6 @@
+__pycache__/
+.cache/
+output/*.db
+*.pyc
+.env
+0 MYNOTES.txt

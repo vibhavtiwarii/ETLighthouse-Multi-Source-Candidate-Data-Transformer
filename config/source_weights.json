@@ -1,0 +1,7 @@
+{
+  "csv": {"identity": 0.9, "employment": 0.85, "skills": 0.3},
+  "ats_json": {"identity": 0.95, "employment": 0.9, "skills": 0.4},
+  "github": {"identity": 0.4, "employment": 0.1, "skills": 0.85},
+  "notes": {"identity": 0.3, "employment": 0.4, "skills": 0.5},
+  "resume_pdf" : {"identity": 0.75, "employment": 0.8, "skills": 0.7}
+}

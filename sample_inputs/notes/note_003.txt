@@ -1,0 +1,16 @@
+Recruiter note — portfolio review + culture chat, 20 March 2024
+
+Marcus walked me through three projects from his GitHub. Primarily works in
+TypeScript — said he prefers it over plain JavaScript for anything beyond
+trivial scripts. Also showed a Docker Compose setup he built to run the full
+Shopify dev environment locally; clearly comfortable containerising apps and
+writing multi-stage Dockerfiles. Mentioned he has dabbled with Go for a CLI
+tool but would not call it a primary skill yet.
+
+Personality: calm, methodical, good at explaining trade-offs. Would fit well
+in a senior IC role rather than management track.
+
+Email: marcus.webb@protonmail.com
+Phone: +1 (312) 555-0847
+
+Decision: advance to take-home coding challenge.

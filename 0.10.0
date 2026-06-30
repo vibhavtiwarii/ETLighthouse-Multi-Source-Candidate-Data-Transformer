@@ -1,0 +1,9 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pdfplumber in C:\Users\Vibhav\AppData\Roaming\Python\Python312\site-packages (0.11.10)
+Requirement already satisfied: pdfminer.six==20260107 in C:\Users\Vibhav\AppData\Roaming\Python\Python312\site-packages (from pdfplumber) (20260107)
+Requirement already satisfied: Pillow>=12.2.0 in C:\Users\Vibhav\AppData\Roaming\Python\Python312\site-packages (from pdfplumber) (12.2.0)
+Requirement already satisfied: pypdfium2>=5.9.0 in C:\Users\Vibhav\AppData\Roaming\Python\Python312\site-packages (from pdfplumber) (5.11.0)
+Requirement already satisfied: charset-normalizer>=2.0.0 in C:\Users\Vibhav\AppData\Roaming\Python\Python312\site-packages (from pdfminer.six==20260107->pdfplumber) (3.3.2)
+Requirement already satisfied: cryptography>=36.0.0 in C:\Users\Vibhav\AppData\Roaming\Python\Python312\site-packages (from pdfminer.six==20260107->pdfplumber) (49.0.0)
+Requirement already satisfied: cffi>=2.0.0 in C:\Users\Vibhav\AppData\Roaming\Python\Python312\site-packages (from cryptography>=36.0.0->pdfminer.six==20260107->pdfplumber) (2.0.0)
+Requirement already satisfied: pycparser in C:\Users\Vibhav\AppData\Roaming\Python\Python312\site-packages (from cffi>=2.0.0->cryptography>=36.0.0->pdfminer.six==20260107->pdfplumber) (2.22)

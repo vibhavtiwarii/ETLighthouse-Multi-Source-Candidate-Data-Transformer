@@ -1,0 +1,14 @@
+Recruiter note — video screen, 18 March 2024
+
+Priya is currently on the risk-modelling team at Monzo. Very strong SQL
+background — she said she writes complex window functions daily and owns
+the team's dbt models. Also mentioned a recent project using scikit-learn
+for churn prediction; comfortable with the full machine learning workflow
+from feature engineering through to model deployment on AWS SageMaker.
+Mentioned interest in moving closer to product analytics rather than pure
+research.
+
+Email on file: priya.nair@outlook.com
+Phone screened — number confirmed during call.
+
+Next step: arrange technical interview with hiring manager.

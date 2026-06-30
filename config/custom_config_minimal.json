@@ -1,0 +1,28 @@
+{
+  "include_confidence": true,
+  "on_missing": "null",
+  "fields": [
+    {
+      "path": "full_name",
+      "type": "string",
+      "required": true
+    },
+    {
+      "path": "primary_email",
+      "type": "string",
+      "from": "emails[0]"
+    },
+    {
+      "path": "phone",
+      "type": "string",
+      "from": "phones[0]",
+      "normalize": "phone"
+    },
+    {
+      "path": "skills",
+      "type": "array",
+      "from": "skills[].name",
+      "normalize": "skill"
+    }
+  ]
+}

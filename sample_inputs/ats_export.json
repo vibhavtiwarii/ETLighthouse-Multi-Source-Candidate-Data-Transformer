@@ -1,0 +1,51 @@
+[
+  {
+    "cand_full_nm": "Jordan Ellis",
+    "primary_eml": "jordan.ellis@gmail.com",
+    "mobile_no": "+14155550192",
+    "employer_nm": "Stripe",
+    "job_ttl": "Staff Engineer",
+    "gh_url": "https://github.com/jellis-stripe",
+    "loc_city": "San Francisco",
+    "loc_country": "US"
+  },
+  {
+    "cand_full_nm": "Priya Nair",
+    "primary_eml": "priya.nair@outlook.com",
+    "mobile_no": "+442079460312",
+    "employer_nm": "Monzo",
+    "job_ttl": "Senior Data Scientist",
+    "gh_url": "",
+    "loc_city": "London",
+    "loc_country": "GB"
+  },
+  {
+    "cand_full_nm": "Marcus Webb",
+    "primary_eml": "marcus.webb@protonmail.com",
+    "mobile_no": "+13125550847",
+    "employer_nm": "Shopify",
+    "job_ttl": "Frontend Developer",
+    "gh_url": "https://github.com/octocat",
+    "loc_city": "Toronto",
+    "loc_country": "CA"
+  },
+  {
+    "cand_full_nm": "Aiko Tanaka",
+    "primary_eml": "aiko.tanaka@yahoo.co.jp",
+    "employer_nm": "Mercari",
+    "job_ttl": "Product Manager",
+    "gh_url": "",
+    "loc_city": "Tokyo",
+    "loc_country": "JP"
+  },
+  {
+    "cand_full_nm": "Dmitri Volkov",
+    "primary_eml": "dmitri.volkov@fastmail.com",
+    "mobile_no": "+16465550271",
+    "employer_nm": "Yandex",
+    "job_ttl": "Senior Backend Engineer",
+    "gh_url": "https://github.com/dvolkov-dev",
+    "loc_city": "Amsterdam",
+    "loc_country": "NL"
+  }
+]

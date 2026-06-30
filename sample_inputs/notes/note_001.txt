@@ -1,0 +1,13 @@
+Recruiter note — initial screen call, 14 March 2024
+
+Spoke with Jordan for about 30 minutes. Strong communicator, clearly passionate
+about distributed systems. Has been at Stripe for just over three years working
+on payment infrastructure. Mentioned he spends a lot of personal time on
+open-source — comfortable with Python for tooling and scripts, and has been
+building a side dashboard in React. Team lead experience: ran a squad of four
+during the migration to Kubernetes.
+
+Contact confirmed: jordan.ellis@gmail.com
+Best call window: weekday mornings Pacific time.
+
+Follow up: send take-home systems design prompt by end of week.

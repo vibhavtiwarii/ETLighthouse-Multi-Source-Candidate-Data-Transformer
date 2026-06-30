@@ -1,0 +1,938 @@
+[
+  {
+    "candidate_id": {
+      "value": "d688c4c1644a",
+      "confidence": 0.676009,
+      "provenance": []
+    },
+    "full_name": {
+      "value": "Jordan Ellis",
+      "confidence": 1.0,
+      "provenance": [
+        {
+          "field": "full_name",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "emails": {
+      "value": [
+        "jordan.ellis@gmail.com"
+      ],
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "emails",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "phones": {
+      "value": [
+        "+14155550192"
+      ],
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "phones",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.city": {
+      "value": "San Francisco",
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        },
+        {
+          "field": "location.country",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.region": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        },
+        {
+          "field": "location.country",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.country": {
+      "value": "US",
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        },
+        {
+          "field": "location.country",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.linkedin": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.github": {
+      "value": "https://github.com/jellis-stripe",
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.portfolio": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.other": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "headline": {
+      "value": "Staff Engineer",
+      "confidence": 0.855,
+      "provenance": [
+        {
+          "field": "headline",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.855
+        }
+      ]
+    },
+    "years_experience": {
+      "value": null,
+      "confidence": 0.676009,
+      "provenance": []
+    },
+    "skills": {
+      "value": null,
+      "confidence": null,
+      "provenance": []
+    },
+    "experience": {
+      "value": [
+        {
+          "company": "Stripe",
+          "title": "Staff Engineer",
+          "start": null,
+          "end": null,
+          "summary": null
+        }
+      ],
+      "confidence": 0.919125,
+      "provenance": [
+        {
+          "field": "experience",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.919125
+        },
+        {
+          "field": "experience",
+          "source": "csv",
+          "method": "direct_copy",
+          "confidence": 0.919125
+        }
+      ]
+    },
+    "education": {
+      "value": null,
+      "confidence": 0.676009,
+      "provenance": []
+    },
+    "overall_confidence": {
+      "value": 0.676009,
+      "confidence": 0.676009,
+      "provenance": []
+    }
+  },
+  {
+    "candidate_id": {
+      "value": "8d426625987b",
+      "confidence": 0.706802,
+      "provenance": []
+    },
+    "full_name": {
+      "value": "Priya Nair",
+      "confidence": 1.0,
+      "provenance": [
+        {
+          "field": "full_name",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "emails": {
+      "value": [
+        "priya.nair@outlook.com"
+      ],
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "emails",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "phones": {
+      "value": [
+        "+442079460312"
+      ],
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "phones",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.city": {
+      "value": "London",
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.region": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.country": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.linkedin": {
+      "value": null,
+      "confidence": 0.706802,
+      "provenance": []
+    },
+    "links.github": {
+      "value": null,
+      "confidence": 0.706802,
+      "provenance": []
+    },
+    "links.portfolio": {
+      "value": null,
+      "confidence": 0.706802,
+      "provenance": []
+    },
+    "links.other": {
+      "value": null,
+      "confidence": 0.706802,
+      "provenance": []
+    },
+    "headline": {
+      "value": "Senior Data Scientist",
+      "confidence": 0.855,
+      "provenance": [
+        {
+          "field": "headline",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.855
+        }
+      ]
+    },
+    "years_experience": {
+      "value": null,
+      "confidence": 0.706802,
+      "provenance": []
+    },
+    "skills": {
+      "value": null,
+      "confidence": null,
+      "provenance": []
+    },
+    "experience": {
+      "value": [
+        {
+          "company": "Monzo",
+          "title": "Senior Data Scientist",
+          "start": null,
+          "end": null,
+          "summary": null
+        }
+      ],
+      "confidence": 0.919125,
+      "provenance": [
+        {
+          "field": "experience",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.919125
+        },
+        {
+          "field": "experience",
+          "source": "csv",
+          "method": "direct_copy",
+          "confidence": 0.919125
+        }
+      ]
+    },
+    "education": {
+      "value": null,
+      "confidence": 0.706802,
+      "provenance": []
+    },
+    "overall_confidence": {
+      "value": 0.706802,
+      "confidence": 0.706802,
+      "provenance": []
+    }
+  },
+  {
+    "candidate_id": {
+      "value": "67e08e98b577",
+      "confidence": 0.723531,
+      "provenance": []
+    },
+    "full_name": {
+      "value": "Marcus Webb",
+      "confidence": 1.0,
+      "provenance": [
+        {
+          "field": "full_name",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "emails": {
+      "value": [
+        "marcus.webb@protonmail.com"
+      ],
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "emails",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "phones": {
+      "value": [
+        "+13125550847"
+      ],
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "phones",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.city": {
+      "value": "Toronto",
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.region": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.country": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.linkedin": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.github": {
+      "value": "https://github.com/octocat",
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.portfolio": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.other": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "headline": {
+      "value": "Frontend Developer",
+      "confidence": 0.98325,
+      "provenance": [
+        {
+          "field": "headline",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.98325
+        }
+      ]
+    },
+    "years_experience": {
+      "value": null,
+      "confidence": 0.723531,
+      "provenance": []
+    },
+    "skills": {
+      "value": [
+        {
+          "name": "Ruby",
+          "confidence": 0.68,
+          "sources": [
+            "github"
+          ]
+        },
+        {
+          "name": "CSS",
+          "confidence": 0.68,
+          "sources": [
+            "github"
+          ]
+        },
+        {
+          "name": "HTML",
+          "confidence": 0.68,
+          "sources": [
+            "github"
+          ]
+        }
+      ],
+      "confidence": 0.68,
+      "provenance": [
+        {
+          "field": "skills",
+          "source": "github",
+          "method": "api_fetch",
+          "confidence": 0.68
+        }
+      ]
+    },
+    "experience": {
+      "value": [
+        {
+          "company": "Shopify",
+          "title": "Frontend Developer",
+          "start": null,
+          "end": null,
+          "summary": null
+        }
+      ],
+      "confidence": 0.98325,
+      "provenance": [
+        {
+          "field": "experience",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.98325
+        },
+        {
+          "field": "experience",
+          "source": "csv",
+          "method": "direct_copy",
+          "confidence": 0.98325
+        }
+      ]
+    },
+    "education": {
+      "value": null,
+      "confidence": 0.723531,
+      "provenance": []
+    },
+    "overall_confidence": {
+      "value": 0.723531,
+      "confidence": 0.723531,
+      "provenance": []
+    }
+  },
+  {
+    "candidate_id": {
+      "value": "a0dfcd2eaecc",
+      "confidence": 0.722625,
+      "provenance": []
+    },
+    "full_name": {
+      "value": "Aiko Tanaka",
+      "confidence": 1.0,
+      "provenance": [
+        {
+          "field": "full_name",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "emails": {
+      "value": [
+        "aiko.tanaka@yahoo.co.jp"
+      ],
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "emails",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "phones": {
+      "value": [
+        "+81355550134"
+      ],
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "field": "phones",
+          "source": "csv",
+          "method": "direct_copy",
+          "confidence": 0.9
+        }
+      ]
+    },
+    "location.city": {
+      "value": "Tokyo",
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.region": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.country": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.linkedin": {
+      "value": null,
+      "confidence": 0.722625,
+      "provenance": []
+    },
+    "links.github": {
+      "value": null,
+      "confidence": 0.722625,
+      "provenance": []
+    },
+    "links.portfolio": {
+      "value": null,
+      "confidence": 0.722625,
+      "provenance": []
+    },
+    "links.other": {
+      "value": null,
+      "confidence": 0.722625,
+      "provenance": []
+    },
+    "headline": {
+      "value": "Product Manager",
+      "confidence": 0.98325,
+      "provenance": [
+        {
+          "field": "headline",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.98325
+        }
+      ]
+    },
+    "years_experience": {
+      "value": null,
+      "confidence": 0.722625,
+      "provenance": []
+    },
+    "skills": {
+      "value": null,
+      "confidence": null,
+      "provenance": []
+    },
+    "experience": {
+      "value": [
+        {
+          "company": "Mercari",
+          "title": "Product Manager",
+          "start": null,
+          "end": null,
+          "summary": null
+        }
+      ],
+      "confidence": 0.98325,
+      "provenance": [
+        {
+          "field": "experience",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.98325
+        },
+        {
+          "field": "experience",
+          "source": "csv",
+          "method": "direct_copy",
+          "confidence": 0.98325
+        }
+      ]
+    },
+    "education": {
+      "value": null,
+      "confidence": 0.722625,
+      "provenance": []
+    },
+    "overall_confidence": {
+      "value": 0.722625,
+      "confidence": 0.722625,
+      "provenance": []
+    }
+  },
+  {
+    "candidate_id": {
+      "value": "3e752aa6de55",
+      "confidence": 0.676009,
+      "provenance": []
+    },
+    "full_name": {
+      "value": "Dmitri Volkov",
+      "confidence": 1.0,
+      "provenance": [
+        {
+          "field": "full_name",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "emails": {
+      "value": [
+        "dmitri.volkov@fastmail.com"
+      ],
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "emails",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "phones": {
+      "value": [
+        "+16465550271"
+      ],
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "phones",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.city": {
+      "value": "Amsterdam",
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.region": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "location.country": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "location.city",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.linkedin": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.github": {
+      "value": "https://github.com/dvolkov-dev",
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.portfolio": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "links.other": {
+      "value": null,
+      "confidence": 0.9025,
+      "provenance": [
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.9025
+        }
+      ]
+    },
+    "headline": {
+      "value": "Senior Backend Engineer",
+      "confidence": 0.855,
+      "provenance": [
+        {
+          "field": "headline",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.855
+        }
+      ]
+    },
+    "years_experience": {
+      "value": null,
+      "confidence": 0.676009,
+      "provenance": []
+    },
+    "skills": {
+      "value": null,
+      "confidence": null,
+      "provenance": []
+    },
+    "experience": {
+      "value": [
+        {
+          "company": "Yandex",
+          "title": "Senior Backend Engineer",
+          "start": null,
+          "end": null,
+          "summary": null
+        }
+      ],
+      "confidence": 0.919125,
+      "provenance": [
+        {
+          "field": "experience",
+          "source": "ats_json",
+          "method": "field_remap",
+          "confidence": 0.919125
+        },
+        {
+          "field": "experience",
+          "source": "csv",
+          "method": "direct_copy",
+          "confidence": 0.919125
+        }
+      ]
+    },
+    "education": {
+      "value": null,
+      "confidence": 0.676009,
+      "provenance": []
+    },
+    "overall_confidence": {
+      "value": 0.676009,
+      "confidence": 0.676009,
+      "provenance": []
+    }
+  }
+]
